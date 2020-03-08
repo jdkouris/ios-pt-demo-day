@@ -16,11 +16,11 @@
 
 ## Links
 
-* Github Code: `<insert Github repository link here>`
-* Github Proposal: `<insert Proposal Pull Request here>`
-* Trello/Github Project Kanban: `<insert trello board here>`
-* Test Flight Signup (Recommended): `<insert beta signup link here>`
-* YouTube demo video (Recommended): `<insert video url here>`
+* Github Code: `https://github.com/LambdaSchool/ios-pt2-bw4-my-fitness-john`
+* Github Proposal: `https://github.com/jdkouris/ios-build-sprint-project-proposal`
+* Trello/Github Project Kanban: `https://github.com/LambdaSchool/ios-pt2-bw4-my-fitness-john/projects/1`
+* Test Flight Signup (Recommended): ``
+* YouTube demo video (Recommended): ``
 
 ## Hero Image
 
@@ -30,27 +30,27 @@
 
 1. What was your favorite feature to implement? Why?
 
-    `<Your answer here>`
+    `My favorite feature to implement was the diffable data source. The diffable data source makes searching for recipes more fluid and a better user experience.`
 
 2. What was your #1 obstacle or bug that you fixed? How did you fix it?
 
-    `<Your answer here>`
+    `Implementing the diffable data source with multiple, custom data types was a challenge using enums that had associated values. I removed the associated values and changed the enum to use raw values which allowed me to conform to hashable more easily.`
   
 3. Share a chunk of code (or file) you're proud of and explain why.
 
-    `<Your answer here>`
+    ``
   
 4. What is your elevator pitch? (30 second description your Grandma or a 5-year old would understand)
 
-    `<Your answer here>`
+    `Track your workouts and overall fitness progress. Receive recommendations for recipes and fitness centers near you.`
   
 5. What is your #1 feature?
 
-    `<Your answer here>`
+    `My favorite feature is the rotating list of recipes with full ingredients and cooking instructions.`
   
 6. What are you future goals?
 
-    `<Your answer here>`
+    `Saving meals to a favorites list, Uploading your own recipes, Provide more details for fitness centers, Save videos to workouts or individual exercises`
 
 ## Required Slides (Add your Keynote to your PR)
 
